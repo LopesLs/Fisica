@@ -86,6 +86,7 @@ Digite aqui sua escolha: ''')))
     elif entrada == 3:
         print('\nValeu mesmo por utilizar meu programa!, [ Dev: Lopez √ ]')
         break
+    
     else:
         print('\nCalma aí, só temos duas opções até agora :/')
         sleep(3)
