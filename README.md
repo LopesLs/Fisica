@@ -3,7 +3,7 @@
 [![Rating](https://vsmarketplacebadge.apphb.com/rating-star/dbanksdesign.nu-disco.svg?style=for-the-badge&colorA=4B1E97&colorB=280E54)](https://github.com/SmokeDevL/Fisica)
 [![Downloads](https://vsmarketplacebadge.apphb.com/downloads-short/dbanksdesign.nu-disco.svg?style=for-the-badge&colorA=0CABA6&colorB=00837F)](https://github.com/SmokeDevL/Fisica)
 
-> Um código em python que faz cálculos 🧮´
+> Um código em python que faz cálculos 🧮
 
 O programa foi desenvolvido por [Carlos](https://github.com/SmokeDevL) teve a idéia a partir de um projeto escolar.
 
