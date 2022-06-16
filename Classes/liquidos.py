@@ -3,7 +3,7 @@
 class Liquida:
 
     def coeficiente_dilatacao_aparente(self):        
-        print('\nA fórmula que será usada para saber o coeficiente aparente será ->  Δap = Yap * v0 * Δt)')
+        print('\nA fórmula que será usada para saber o coeficiente aparente será ->  Δap = Yap * v0 * Δt')
         
         self.v0 = float(input('\nInforme o valor de v0: '))
         self.Dap = float(input('\nInforme o valor de Δap: '))
