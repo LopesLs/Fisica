@@ -7,7 +7,7 @@
 
 O programa foi desenvolvido por [Carlos](https://github.com/SmokeDevL) teve a idéia a partir de um projeto escolar.
 
-![Javascript screenshot of Nu Disco Dark](images/js.png)
+![Foto em png do ambiente de programação](images/ambiente.png)
 
 <a href="https://open.spotify.com/playlist/4f7Dblb3Wxhg7bOl5HAPua?si=45f83ff4ee724fb8" style="display:inline-block; background:#67E591; color:#0C001F; padding:20px; font-weight:bold;">
 Escute a minha playlist que eu escutava enquanto programava 🎧
